@@ -15,6 +15,18 @@
 		503AF57E233A01F700C8382E /* Sinus.swift in Sources */ = {isa = PBXBuildFile; fileRef = 503AF57D233A01F700C8382E /* Sinus.swift */; };
 		503AF585233A1CCB00C8382E /* QuickSort.swift in Sources */ = {isa = PBXBuildFile; fileRef = 503AF584233A1CCB00C8382E /* QuickSort.swift */; };
 		503AF587233A1F8E00C8382E /* XCQuickSortTestCase.swift in Sources */ = {isa = PBXBuildFile; fileRef = 503AF586233A1F8E00C8382E /* XCQuickSortTestCase.swift */; };
+		50D729FA233A315C003BB7D1 /* XCAbstractEntityTestCase.swift in Sources */ = {isa = PBXBuildFile; fileRef = 50D729F9233A315C003BB7D1 /* XCAbstractEntityTestCase.swift */; };
+		50D729FC233A31D5003BB7D1 /* AbstractEntity.swift in Sources */ = {isa = PBXBuildFile; fileRef = 50D729FB233A31D5003BB7D1 /* AbstractEntity.swift */; };
+		50D729FE233A3533003BB7D1 /* Position.swift in Sources */ = {isa = PBXBuildFile; fileRef = 50D729FD233A3533003BB7D1 /* Position.swift */; };
+		50D72A00233A3545003BB7D1 /* XCPositionTestCase.swift in Sources */ = {isa = PBXBuildFile; fileRef = 50D729FF233A3545003BB7D1 /* XCPositionTestCase.swift */; };
+		50D72A03233A58E4003BB7D1 /* XCPersonTestCase.swift in Sources */ = {isa = PBXBuildFile; fileRef = 50D72A02233A58E4003BB7D1 /* XCPersonTestCase.swift */; };
+		50D72A05233A59D6003BB7D1 /* Person.swift in Sources */ = {isa = PBXBuildFile; fileRef = 50D72A04233A59D6003BB7D1 /* Person.swift */; };
+		50E08D93233A7DC500C0C9D8 /* Planet.swift in Sources */ = {isa = PBXBuildFile; fileRef = 50E08D92233A7DC500C0C9D8 /* Planet.swift */; };
+		50E08D95233A7DD800C0C9D8 /* XCPlanetTestCase.swift in Sources */ = {isa = PBXBuildFile; fileRef = 50E08D94233A7DD800C0C9D8 /* XCPlanetTestCase.swift */; };
+		50E08D97233A8D3400C0C9D8 /* XCSpaceShipTestCase.swift in Sources */ = {isa = PBXBuildFile; fileRef = 50E08D96233A8D3400C0C9D8 /* XCSpaceShipTestCase.swift */; };
+		50E08D99233A8D5F00C0C9D8 /* Spaceship.swift in Sources */ = {isa = PBXBuildFile; fileRef = 50E08D98233A8D5F00C0C9D8 /* Spaceship.swift */; };
+		50E08D9B233A98F200C0C9D8 /* XCGalaxyTestCase.swift in Sources */ = {isa = PBXBuildFile; fileRef = 50E08D9A233A98F200C0C9D8 /* XCGalaxyTestCase.swift */; };
+		50E08D9D233A990100C0C9D8 /* Galaxy.swift in Sources */ = {isa = PBXBuildFile; fileRef = 50E08D9C233A990100C0C9D8 /* Galaxy.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -41,6 +53,18 @@
 		503AF57D233A01F700C8382E /* Sinus.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = Sinus.swift; sourceTree = "<group>"; };
 		503AF584233A1CCB00C8382E /* QuickSort.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = QuickSort.swift; sourceTree = "<group>"; };
 		503AF586233A1F8E00C8382E /* XCQuickSortTestCase.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = XCQuickSortTestCase.swift; sourceTree = "<group>"; };
+		50D729F9233A315C003BB7D1 /* XCAbstractEntityTestCase.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = XCAbstractEntityTestCase.swift; sourceTree = "<group>"; };
+		50D729FB233A31D5003BB7D1 /* AbstractEntity.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; name = AbstractEntity.swift; path = Test1Tests/Task3/AbstractEntity.swift; sourceTree = SOURCE_ROOT; };
+		50D729FD233A3533003BB7D1 /* Position.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; name = Position.swift; path = Test1Tests/Task3/Position.swift; sourceTree = SOURCE_ROOT; };
+		50D729FF233A3545003BB7D1 /* XCPositionTestCase.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = XCPositionTestCase.swift; sourceTree = "<group>"; };
+		50D72A02233A58E4003BB7D1 /* XCPersonTestCase.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = XCPersonTestCase.swift; sourceTree = "<group>"; };
+		50D72A04233A59D6003BB7D1 /* Person.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; name = Person.swift; path = Test1Tests/Task3/Person.swift; sourceTree = SOURCE_ROOT; };
+		50E08D92233A7DC500C0C9D8 /* Planet.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; name = Planet.swift; path = Test1Tests/Task3/Planet.swift; sourceTree = SOURCE_ROOT; };
+		50E08D94233A7DD800C0C9D8 /* XCPlanetTestCase.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = XCPlanetTestCase.swift; sourceTree = "<group>"; };
+		50E08D96233A8D3400C0C9D8 /* XCSpaceShipTestCase.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = XCSpaceShipTestCase.swift; sourceTree = "<group>"; };
+		50E08D98233A8D5F00C0C9D8 /* Spaceship.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; name = Spaceship.swift; path = Test1Tests/Task3/Spaceship.swift; sourceTree = SOURCE_ROOT; };
+		50E08D9A233A98F200C0C9D8 /* XCGalaxyTestCase.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = XCGalaxyTestCase.swift; sourceTree = "<group>"; };
+		50E08D9C233A990100C0C9D8 /* Galaxy.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; name = Galaxy.swift; path = Test1Tests/Task3/Galaxy.swift; sourceTree = SOURCE_ROOT; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -86,6 +110,7 @@
 				503AF581233A1CAC00C8382E /* Task2 */,
 				503AF580233A1CA100C8382E /* Task1 */,
 				503AF57F233A01FE00C8382E /* Unused */,
+				503AF569233A01E400C8382E /* Test1.entitlements */,
 				503AF568233A01E400C8382E /* Info.plist */,
 			);
 			path = Test1;
@@ -109,7 +134,6 @@
 				503AF561233A01E300C8382E /* ViewController.swift */,
 				503AF563233A01E400C8382E /* Assets.xcassets */,
 				503AF565233A01E400C8382E /* Main.storyboard */,
-				503AF569233A01E400C8382E /* Test1.entitlements */,
 			);
 			path = Unused;
 			sourceTree = "<group>";
@@ -149,6 +173,12 @@
 		503AF588233A283600C8382E /* Task3 */ = {
 			isa = PBXGroup;
 			children = (
+				50D729FB233A31D5003BB7D1 /* AbstractEntity.swift */,
+				50D729FD233A3533003BB7D1 /* Position.swift */,
+				50D72A04233A59D6003BB7D1 /* Person.swift */,
+				50E08D92233A7DC500C0C9D8 /* Planet.swift */,
+				50E08D98233A8D5F00C0C9D8 /* Spaceship.swift */,
+				50E08D9C233A990100C0C9D8 /* Galaxy.swift */,
 			);
 			path = Task3;
 			sourceTree = "<group>";
@@ -156,6 +186,12 @@
 		503AF589233A283B00C8382E /* Task3 */ = {
 			isa = PBXGroup;
 			children = (
+				50D729F9233A315C003BB7D1 /* XCAbstractEntityTestCase.swift */,
+				50D729FF233A3545003BB7D1 /* XCPositionTestCase.swift */,
+				50D72A02233A58E4003BB7D1 /* XCPersonTestCase.swift */,
+				50E08D94233A7DD800C0C9D8 /* XCPlanetTestCase.swift */,
+				50E08D96233A8D3400C0C9D8 /* XCSpaceShipTestCase.swift */,
+				50E08D9A233A98F200C0C9D8 /* XCGalaxyTestCase.swift */,
 			);
 			path = Task3;
 			sourceTree = "<group>";
@@ -260,10 +296,16 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				50E08D99233A8D5F00C0C9D8 /* Spaceship.swift in Sources */,
 				503AF562233A01E300C8382E /* ViewController.swift in Sources */,
 				503AF57E233A01F700C8382E /* Sinus.swift in Sources */,
+				50E08D9D233A990100C0C9D8 /* Galaxy.swift in Sources */,
+				50D729FE233A3533003BB7D1 /* Position.swift in Sources */,
+				50E08D93233A7DC500C0C9D8 /* Planet.swift in Sources */,
 				503AF560233A01E300C8382E /* AppDelegate.swift in Sources */,
+				50D72A05233A59D6003BB7D1 /* Person.swift in Sources */,
 				503AF585233A1CCB00C8382E /* QuickSort.swift in Sources */,
+				50D729FC233A31D5003BB7D1 /* AbstractEntity.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -271,8 +313,14 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				50D72A03233A58E4003BB7D1 /* XCPersonTestCase.swift in Sources */,
 				503AF587233A1F8E00C8382E /* XCQuickSortTestCase.swift in Sources */,
 				503AF573233A01E400C8382E /* XCSinusTestCase.swift in Sources */,
+				50D729FA233A315C003BB7D1 /* XCAbstractEntityTestCase.swift in Sources */,
+				50E08D95233A7DD800C0C9D8 /* XCPlanetTestCase.swift in Sources */,
+				50E08D97233A8D3400C0C9D8 /* XCSpaceShipTestCase.swift in Sources */,
+				50E08D9B233A98F200C0C9D8 /* XCGalaxyTestCase.swift in Sources */,
+				50D72A00233A3545003BB7D1 /* XCPositionTestCase.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -415,7 +463,6 @@
 			isa = XCBuildConfiguration;
 			buildSettings = {
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
-				CODE_SIGN_ENTITLEMENTS = Test1/Test1.entitlements;
 				CODE_SIGN_IDENTITY = "-";
 				CODE_SIGN_STYLE = Automatic;
 				COMBINE_HIDPI_IMAGES = YES;
@@ -438,7 +485,6 @@
 			isa = XCBuildConfiguration;
 			buildSettings = {
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
-				CODE_SIGN_ENTITLEMENTS = Test1/Test1.entitlements;
 				CODE_SIGN_IDENTITY = "-";
 				CODE_SIGN_STYLE = Automatic;
 				COMBINE_HIDPI_IMAGES = YES;
