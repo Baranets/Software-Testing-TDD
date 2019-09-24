@@ -49,7 +49,7 @@ class XCGalaxyTestCase: XCTestCase {
         sut.generatePlanet()
         let newPlanetCount = sut.planets.count
         
-        XCTAssertGreaterThan(newPlanetCount, oldPlanetCount)ç
+        XCTAssertGreaterThan(newPlanetCount, oldPlanetCount)
     }
 
 }
