@@ -43,7 +43,7 @@ Click <a name="https://github.com/Baranets/Software-Testing-TDD/tree/master/Test
 
 
 <a name="description-lab-2"></a>
-###Description 
+### Description 
 
 - All the functions that make up the system (both trigonometric and logarithmic) must be expressed in terms of basic ones (trigonometric depends on the variant; logarithmic is the natural logarithm).
 - The structure of the application tested in the laboratory should look like this (an example is given for the basic trigonometric function sin (x)):
