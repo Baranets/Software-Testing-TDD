@@ -17,7 +17,7 @@ Laboratory works for Software Testing. I will use the Swift and Java languages.
 
 
 <a name="description-lab-1"></a>
-###Description 
+### Description 
 
 1. For the specified function, conduct unit testing of the expansion of the function in a power series. Choose enough test coverage.
 2. Conduct unit testing of this algorithm. To do this, select characteristic points within the algorithm, and for independently proposed sets of input data, write down the sequence of hits at characteristic points. Compare the hit sequence with the reference.
