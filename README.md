@@ -34,8 +34,8 @@ Laboratory works for Software Testing. I will use the Swift and Java languages.
 
 <a name="solution-lab-1"></a>
 ### Solution
-Click <a name="https://github.com/Baranets/Software-Testing-TDD/tree/master/Test1">here</a>
 
+Click [hear](Test1)
 
 
 <a name="laboratory-work-2"></a>
@@ -60,4 +60,5 @@ Click <a name="https://github.com/Baranets/Software-Testing-TDD/tree/master/Test
 
 <a name="solution-lab-2"></a>
 ### Solution
-Click <a name="https://github.com/Baranets/Software-Testing-TDD/tree/master/Test2">here</a>
+
+Click [hear](Test2)
